@@ -13,7 +13,7 @@ const TodoPage: React.FC = () => {
   return (
     <div className="container mx-auto px-4 py-8 max-w-3xl">
       <div className="flex justify-between items-center mb-6">
-        <h2 className="text-2xl font-bold text-gray-800">Tasks</h2>
+        <h2 className="text-2xl font-bold text-gray-800">To Dos</h2>
         <button
           onClick={() => setIsFormVisible(!isFormVisible)}
           className="flex items-center px-4 py-2 bg-indigo-600 text-white rounded-md hover:bg-indigo-700 transition-colors duration-200"
