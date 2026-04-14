@@ -24,7 +24,7 @@ const Header = () => {
                 }
                 end
               >
-                To Do
+                Tasks
               </NavLink>
             </li>
             <li>
