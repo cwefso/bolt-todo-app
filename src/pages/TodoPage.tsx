@@ -41,7 +41,7 @@ const TodoPage: React.FC = () => {
         tasks={activeTasks} 
         emptyMessage={
           isFormVisible
-            ? "Add your first task using the form above"
+            ? "Add new tasks here!"
             : "No tasks to do! Click 'Add Task' to create one"
         } 
       />
