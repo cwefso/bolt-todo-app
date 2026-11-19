@@ -8,7 +8,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center">
           <CheckSquare className="h-6 w-6 text-indigo-600 mr-2" />
-          <h1 className="text-xl font-bold text-gray-800">TaskMaster</h1>
+          <h1 className="text-xl font-bold text-gray-800">TODOABLE</h1>
         </div>
         <nav>
           <ul className="flex space-x-6">
